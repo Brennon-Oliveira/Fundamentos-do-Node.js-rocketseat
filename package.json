@@ -1,0 +1,20 @@
+{
+  "name": "fundamentos-do-node.js-rocketseat",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Resolução do desafio 1 de fundamentos do nodejs da RocketSeat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brennon-Oliveira/Fundamentos-do-Node.js-rocketseat.git"
+  },
+  "author": "Brennon Gabriel de Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brennon-Oliveira/Fundamentos-do-Node.js-rocketseat/issues"
+  },
+  "homepage": "https://github.com/Brennon-Oliveira/Fundamentos-do-Node.js-rocketseat#readme"
+}
